@@ -103,6 +103,14 @@ Project Components
 •	Genre & Author Insights 
 •	Platform-wise Book Trend Analysis 
 ________________________________________
+Dashboards' Snapshots:
+https://github.com/siddhificant/Multi-platform-Books-Analysis-Dasboard/blob/main/Individual%20Platform%20Analysis/Dashboards/Amazon.png
+https://github.com/siddhificant/Multi-platform-Books-Analysis-Dasboard/blob/main/Individual%20Platform%20Analysis/Dashboards/Flipkart.png
+https://github.com/siddhificant/Multi-platform-Books-Analysis-Dasboard/blob/main/Individual%20Platform%20Analysis/Dashboards/Goodreads.png
+https://github.com/siddhificant/Multi-platform-Books-Analysis-Dasboard/blob/main/Individual%20Platform%20Analysis/Dashboards/Guardian.png
+https://github.com/siddhificant/Multi-platform-Books-Analysis-Dasboard/blob/main/Individual%20Platform%20Analysis/Dashboards/NYT.png
+https://github.com/siddhificant/Multi-platform-Books-Analysis-Dasboard/blob/main/Individual%20Platform%20Analysis/Dashboards/Reader's%20Digest.png
+
 Conclusion
 
 This project demonstrates how data analytics and visualization can be applied to literary datasets to uncover meaningful insights related to audience behavior, publishing trends, genre popularity, and platform-specific patterns. By combining multiple data sources into interactive dashboards, the project provides a structured and data-driven view of the modern book ecosystem.
